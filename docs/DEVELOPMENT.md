@@ -41,8 +41,13 @@ and cache. Do not commit generated databases or response caches.
 
 ## Roadmap
 
-Phase 2, only after explicit approval, adds a reviewed New Vegas catalog,
-targeted content normalization, redirects/deduplication, broader evidence,
-incremental revisions, review queues, and storage/search-quality measurement.
-Fallout 3, Fallout 4, Fallout 76, television, and remaining works follow only
-after their preceding acceptance gates.
+Phase 2 is paused before catalog discovery and bulk acquisition pending an
+approved source/API/dump path. During the pause, do not bypass the Independent
+Fallout Wiki robots restriction, substitute Fandom, acquire more lore, or begin
+another phase. See `PROJECT_STATUS.md` and `SOURCE_POLICY_BLOCKER.md`.
+
+If the source gate is later resolved and the user explicitly resumes Phase 2,
+the work adds a reviewed New Vegas catalog, targeted content normalization,
+redirects/deduplication, broader evidence, incremental revisions, review queues,
+and storage/search-quality measurement. Fallout 3 and later works remain behind
+their own phase gates.

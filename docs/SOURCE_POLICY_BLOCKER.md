@@ -1,5 +1,8 @@
 # Unresolved source-policy and data-license blocker
 
+**Status:** Phase 2 is paused at this gate. No additional lore acquisition or
+later phase is authorized while it remains unresolved.
+
 ## Exact blocker
 
 As observed on 2026-09-16, the Independent Fallout Wiki's live `robots.txt`

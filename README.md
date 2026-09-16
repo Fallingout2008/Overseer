@@ -12,6 +12,11 @@ Fallout Wiki's wildcard robots rules disallow `/api.php`; live acquisition is
 therefore blocked by design pending operator clarification or another permitted
 source path. It does not download article bodies or images.
 
+**Project status:** Phase 2 is paused before catalog discovery or bulk
+acquisition. No robots bypass, Fandom substitution, additional lore acquisition,
+or later phase is authorized. See
+[docs/PROJECT_STATUS.md](docs/PROJECT_STATUS.md).
+
 ## Requirements and quick start
 
 - Python 3.11 or newer
@@ -76,4 +81,4 @@ python3 -m compileall -q src tests
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md),
 [docs/SOURCES_AND_PROVENANCE.md](docs/SOURCES_AND_PROVENANCE.md), and
 [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md). Phase 2 (full New Vegas discovery
-and import) is intentionally not started.
+and import) is paused pending an approved source/API/dump path.
