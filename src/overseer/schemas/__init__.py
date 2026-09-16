@@ -1,0 +1,2 @@
+"""Packaged SQLite migration resources."""
+
